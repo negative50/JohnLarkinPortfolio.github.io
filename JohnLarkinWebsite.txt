@@ -1,0 +1,11 @@
+<html>
+
+<head>
+	<title> Home Page </title>
+</head>
+
+<body>
+	<p> Lnk to practice page </p>
+	<a href="file:///C:/Users/larkinj2281/Desktop/JohnLarkinPortfolio.github.io/Practice.html"> Practice Page</a>
+</body>
+<html>
