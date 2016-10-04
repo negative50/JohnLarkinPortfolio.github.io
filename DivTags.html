@@ -12,7 +12,60 @@
 		}
 	p {
 		background: rgb( 25, 159, 255); 
-		font: Comic, Times;}
+		font: Comic, Times;
+		color: grey;
+		}
+	}
+	h1 {
+	font: 300% Arial, Helvetica, sans-serif;
+	color: grey;
+	}
+	h2 {
+	font: 200% Helvetica;
+	}
+	#wrapper {
+		width: 1100px;
+		margin: 0 auto;
+		padding: 0 50px;
+		text-align: left;
+		position: relative;
+	}
+	#mainHeader {
+		height: 185px;
+		background: url(images/logo.png) no-reat 25px center;
+		padding: 75px 0 0 300px;
+		position: relative;
+		border-bottom: 2px solid #7f7f7f;
+		margin-bottom: 16px;
+	}
+	# mainHeader div {
+		margin-top: 16px;
+	}
+	#mainHeader ul{
+		list-style: none;
+		float: left;
+	}
+	#mainHeader ul li{
+		float: left;
+	}
+	#mainHeader ul li a {
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 20px;
+		color: #000;
+		padding: 0 20px 0;
+		border-right: 1px solid #000;
+		text-decoration: none;
+	}
+	#mainHeader ul li a.last {
+		border-right: none;
+	}
+	#mainHeader ul li a:hover {
+		color: #c0000;
+	}
+	#Content {
+	padding: 20px;
+	text-align: left;
+	}
 </style>
 </head>
 
@@ -27,10 +80,11 @@
 		Projects and Assignments</h2>
 			<!--Site Navigation-->
 			<div id="Main Nav">
-			<li><a href="#">Scratch</a></li>
-			<li><a href="#">Java</a></li>
-			<li><a href="#">Python</a></li>
-			<li><a href="#">Final Project</a></li>
+				<ul id="pages">
+					<li><a href="#">Scratch</a></li>
+					<li><a href="#">Java</a></li>
+					<li><a href="#">Python</a></li>
+					<li><a href="#">Final Project</a></li>
 			</div><!--End Navigation Links-->
 
 	</div><!--End Header-->
