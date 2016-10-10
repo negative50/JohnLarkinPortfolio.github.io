@@ -1,0 +1,76 @@
+<doctype html>
+
+<html>
+
+<style>
+<!--dont forget to add style-->
+#info {
+	width: 1100px;
+	margin: 0 auto;
+	padding: 0 50px;
+	text-align: left;
+	position: relative;
+}
+#title {}
+</style>
+
+<head>
+	<meta charset="UTF-8">
+	<title>Scott Pilgrim vs. The World</title>
+	<style>
+		<!--dont forget to add style-->
+		#info {
+			width: 1100px;
+			margin: 0 auto;
+			padding: 0 50px;
+			text-align: left;
+			position: relative;
+		}
+		#title {
+			text-align: center;
+			padding: 20px 15px;
+			margin: 10px;
+		}
+		#best {
+			padding: 5px;
+			position: relative;
+			margin: 5px;
+			border-right: 1px solid black;
+		}
+		#movie {
+			text-align: right;
+			padding: 10px;
+			clear: left;
+			overflow: auto;
+		}
+
+		
+	</style>
+</head>
+
+<body>
+<div id="info">
+	<header id="title">
+		<h1>Scott Pilgrim vs. The World</h1>
+		<h2>My "favorite" movie</h2>
+		<div id="best">
+			<h4>best movie</h4>
+		</div>
+	</header>
+	<div id="movie">
+		<p>I like "Scott Pilgrim vs. the World" a lot because I respect the director, Edgar Wright,who made that movie because he
+		also made "Hot Fuzz" and "Shaun of the Dead". I also have been reading the visual novel series which the movie was created from
+		and I just thought that this movie portrayed the visual novel well and did so in a way that felt original and creative.</p>
+		<div id="poster">
+			<h5>Movie Poster</h5>
+			<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwNTczNTMyOF5BMl5BanBnXkFtZTcwNzUxOTUyMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" style="float:right;width:200px;height:300px;">
+		</div>
+	</div>
+	<div id="Favorite Actor">
+		<h1>Favorite Actor</h1>
+		<img src="http://cdn.abclocal.go.com/content/kgo/images/cms/253483_1280x720.jpg" width="300" height="170"/>
+		<p> Robin Williams is a hugely iconic actor that has been part of many people's childhoods from movies like "Jumanji", "Robots", "Good Morning, Vietnam", and "Aladdin".
+		He's like the uncle we've always had.</p>
+	</div>
+</div>		
+</html>

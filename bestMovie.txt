@@ -1,0 +1,39 @@
+<html>
+	<style>
+	body {background-color:rgb( 25, 159, 250);
+	font-family: "comic sans"}
+	h1 {background: lightgreen ;
+	font-family: Times, serif;}
+	p {background-color: rgb ( 125, 25, 190);
+	}
+</style>
+<div id="wrapper">	
+	<div id="Favorite Movie">
+		<h1>My Favorite Movie(s)</h1>
+		<p> This is a tough decision between "American Ultra" and "Scott Pilgrim Vs. The World".
+		I would just call it a tie and say both are my favorite.
+		</p>
+		<img src="https://upload.wikimedia.org/wikipedia/en/5/5e/American_Ultra_poster.jpg"/> <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwNTczNTMyOF5BMl5BanBnXkFtZTcwNzUxOTUyMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" width="250" length="640"/>
+
+		<p>
+		<a href="http://www.imdb.com/title/tt3316948/">American Ultra</a>
+		</p>
+		<p>
+		<a href="http://www.imdb.com/title/tt0446029/">Scott Pilgrim Vs. the World </a>
+		</p>
+		<p> I like "Scott Pilgrim vs. the World" a lot because I respect the director, Edgar Wright,who made that movie because he
+		also made "Hot Fuzz" and "Shaun of the Dead". I also have been reading the visual novel series which the movie was created from
+		and I just thought that this movie portrayed the visual novel well and did so in a way that felt original and creative.
+		</p>
+		<p> I like "American Ultra" not because it was a good movie, because it wasn't really, but I just liked the concept of the movie
+		and the aesthetic of it.
+	</div>
+	</div id="Favorite Actor">
+		<h1>Favorite Actor</h1>
+		<head> I think, if I had to choose a favorite actor, which I can't but I'll pick someone anyways, then it would have to be Robin Williams. </head>
+		<img src="http://cdn.abclocal.go.com/content/kgo/images/cms/253483_1280x720.jpg" width="800" length"500"/>
+		<p> Robin Williams is a hugely iconic actor that has been part of many people's childhoods from movies like "Jumanji", "Robots", "Good Morning, Vietnam", and "Aladdin".
+		He's like the uncle we've always had.</p>
+		</div>
+</div>
+	</html>
